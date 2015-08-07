@@ -1,0 +1,78 @@
+﻿applekiev.com.ua/index.html
+
+applekiev.com.ua/iphone_4s.html
+    applekiev.com.ua/spec/iphone_4s_16gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4s_16gb_white_spec.html
+    applekiev.com.ua/spec/iphone_4s_32gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4s_32gb_white_spec.html
+    applekiev.com.ua/spec/iphone_4s_64gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4s_64gb_white_spec.html
+
+applekiev.com.ua/iphone_4.html
+    applekiev.com.ua/spec/iphone_4_8gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4_8gb_white_spec.html
+    applekiev.com.ua/spec/iphone_4_16gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4_16gb_white_spec.html
+    applekiev.com.ua/spec/iphone_4_32gb_black_spec.html
+    applekiev.com.ua/spec/iphone_4_32gb_white_spec.html
+
+applekiev.com.ua/ipad_wifi_4g.html
+    applekiev.com.ua/spec/ipad_wifi_4g_16gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_4g_16gb_white_spec.html
+    applekiev.com.ua/spec/ipad_wifi_4g_32gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_4g_32gb_white_spec.html
+    applekiev.com.ua/spec/ipad_wifi_4g_64gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_4g_64gb_white_spec.html
+
+applekiev.com.ua/ipad_wifi.html
+    applekiev.com.ua/spec/ipad_wifi_16gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_16gb_white_spec.html
+    applekiev.com.ua/spec/ipad_wifi_32gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_32gb_white_spec.html
+    applekiev.com.ua/spec/ipad_wifi_64gb_black_spec.html
+    applekiev.com.ua/spec/ipad_wifi_64gb_white_spec.html
+
+applekiev.com.ua/ipad2_wifi_3g.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_16gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_16gb_white_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_32gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_32gb_white_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_64gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_3g_64gb_white_spec.html
+
+applekiev.com.ua/ipad2_wifi.html
+    applekiev.com.ua/spec/ipad2_wifi_16gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_16gb_white_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_32gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_32gb_white_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_64gb_black_spec.html
+    applekiev.com.ua/spec/ipad2_wifi_64gb_white_spec.html
+
+applekiev.com.ua/imac.html
+    applekiev.com.ua/spec/imac_spec.html
+
+applekiev.com.ua/macbook_air.html
+    applekiev.com.ua/spec/macbook_air_spec.html
+
+applekiev.com.ua/macbook_pro.html
+    applekiev.com.ua/spec/macbook_pro_spec.html
+
+applekiev.com.ua/mini.html
+    applekiev.com.ua/spec/mini_spec.html
+
+applekiev.com.ua/ipod_classic.html
+applekiev.com.ua/spec/ipod_classic_spec.html
+
+applekiev.com.ua/ipod_nano.html
+applekiev.com.ua/spec/ipod_nano_spec.html
+
+applekiev.com.ua/ipod_shuffle.html
+applekiev.com.ua/spec/ipod_shuffle_spec.html
+
+applekiev.com.ua/ipod_touch.html
+applekiev.com.ua/spec/ipod_touch_spec.html
+
+
+applekiev.com.ua/mac_pro.html
+applekiev.com.ua/contacts.html
+applekiev.com.ua/service.html

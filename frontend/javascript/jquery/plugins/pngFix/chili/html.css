@@ -1,0 +1,16 @@
+/*
+#####################################
+#  ShopOS: Shopping Cart Software.
+#  Copyright (c) 2008-2010
+#  http://www.shopos.ru
+#  http://www.shoposs.com
+#  Ver. 1.0.2
+#####################################
+*/
+
+.html .php    { color: red; }
+.html .tag    { color: blue; }
+.html .aname  { color: maroon; }
+.html .avalue { color: teal; }
+.html .mlcom  { color: green; }
+.html .entity { color: teal; }
